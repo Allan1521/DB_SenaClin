@@ -46,6 +46,8 @@ CONSTRAINT fk1_consulta_paciente FOREIGN KEY(idPaciente) REFERENCES paciente (id
 CONSTRAINT fk2_consulta_dentista FOREIGN KEY(idDentista) REFERENCES Dentista (idDentista)
 );
 
+ALTER TABLE paciente 
+ADD COLUMN  Cidade VARCHAR(30) NOT NULL;
  
 
 
