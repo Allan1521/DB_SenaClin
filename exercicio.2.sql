@@ -1,4 +1,5 @@
-/*exercicio2*/
+/*exercicio2 2.Inserir 6 pacientes de forma implícita,sendo 3 de Santos, 
+1 de Guarujá e 2 de São Vicente;*/
 SELECT*FROM paciente
 
 INSERT INTO paciente(
