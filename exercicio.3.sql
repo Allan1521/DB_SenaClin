@@ -1,4 +1,4 @@
-/*exercicio3*/
+/*exercicio3 3.Inserir 4 dentistas de forma explícita, sendo 1 de cada especialidade;*/
 
 INSERT INTO dentista(
 nomeDentista,CRO,especialidade,Tel_Dentista,Cel_Dentista) 
